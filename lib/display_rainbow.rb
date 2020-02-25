@@ -4,4 +4,4 @@ def display_rainbow(color)
   puts color.sort()
 end
 
-display_rainbow
+display_rainbow(R)
